@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGenerator.a CMakeFiles/Generator.dir/generator/context.cpp.o CMakeFiles/Generator.dir/generator/expr.cpp.o CMakeFiles/Generator.dir/generator/random.cpp.o CMakeFiles/Generator.dir/generator/value.cpp.o CMakeFiles/Generator.dir/generator/function.cpp.o CMakeFiles/Generator.dir/generator/config.cpp.o CMakeFiles/Generator.dir/generator/generator.cpp.o
+/usr/bin/ranlib libGenerator.a

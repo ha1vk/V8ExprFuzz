@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "__nullptr": "cpp",
+        "__tree": "cpp",
+        "compare": "cpp",
+        "map": "cpp",
+        "optional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "variant": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "new": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "alloc-inl.h": "c",
+        "__locale": "c",
+        "ios": "c"
+    }
+}

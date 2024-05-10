@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -O3 -DNDEBUG "CMakeFiles/afl-v8-expr.dir/afl/afl-fuzz.c.o" -o afl-v8-expr  libGenerator.a -ldl 
